@@ -1,3 +1,4 @@
 #!/bin/bash
 #  a script to render the CV into pdf
 pandoc -t latex -o Rose_CV.pdf Rose_CV.md
+pandoc -t html -o Rose_CV.html Rose_CV.md
