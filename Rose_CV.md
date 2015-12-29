@@ -23,6 +23,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Research Assistant, McGill University and Centre de recherche en calcul appliqué, Montreal (2000)
 
 ## Teaching
+- UAlbany A ATM/ENV 415 Climate Laboratory (2016)
 - UAlbany A ATM 500 Atmospheric Dynamics (2015)
 - UAlbany A ATM 623 Climate Modeling (2015)
 - UAlbany A ATM 316 Dynamic Meteorology I (2014)
@@ -39,7 +40,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 ## Publications  	
 *reprints available at <http://www.atmos.albany.edu/facstaff/brose/>*
 
-- Rose, BEJ and M.C. Rencurrel* (2015), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. *Submitted to J. Climate*
+- Rose, BEJ and M.C. Rencurrel* (2015), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. *Revised for J. Climate*
 - Rose, BEJ (2015), Stable “Waterbelt” climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
 - Rose, BEJ, K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41, doi:10.1002/2013GL058955. [pdf reprint][heat uptake]
 - Rose, BEJ, D Ferreira and J Marshall (2013), The role of oceans and sea ice in abrupt transitions between multiple climate states.  J. Climate 26, 2862-2879. [pdf reprint][transitions]
@@ -58,7 +59,8 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 	- to begin MS studies at SUNY ESF fall 2015
 
 ## PhD Committees
-Pablo Paiewonsky, Chris Colose, Ted Letcher, Hannah Attard (all in progress)
+- Pablo Paiewonsky, Chris Colose, Ted Letcher, Hannah Attard (all in progress at U. Albany)
+- Anthony Coletti (U. Massachusetts Amherst)
 
 ## Grants
 - CAREER: Understanding the role of oceans in the planetary energy budget. NSF, $544,681, 2015-2020
@@ -81,6 +83,8 @@ Pablo Paiewonsky, Chris Colose, Ted Letcher, Hannah Attard (all in progress)
 - International Sea Ice Summer School, Svalbard.  07/2007
 
 ## Invited Presentations
+- Columbia University, SEAS Colloquium in Climate Science: Understanding the effects of ocean circulation on radiative feedbacks and the planetary energy budget. 11/2015
+- Stony Brook University, Marine & Atmos. Sci.: Understanding the effects of ocean circulation on radiative feedbacks and the planetary energy budget. 9/2015
 - Massachusetts College of Liberal Arts: What sets the temperature of the Earth? (public lecture) 1/2015
 - Caltech ESE seminar: The role of oceans in climate sensitivity and radiative feedbacks. 10/2013
 - Courant Institute, NYU: The role of oceans in climate sensitivity and radiative feedbacks. 10/2013
@@ -101,6 +105,10 @@ Pablo Paiewonsky, Chris Colose, Ted Letcher, Hannah Attard (all in progress)
 - Harvard U., Earth and Planetary Sci.: Multiple equilibria of sea ice and climate. 09/2010
 
 ## Contributed Presentations
+- Rayborn, Lance* and BEJ Rose, Robust effects of ocean heat uptake on radiative feedback and subtropical cloud cover: a study using radiative kernels (oral presentation), AGU Fall Meeting, 12/2015
+- Rencurrel, M. Cameron* and BEJ Rose, Atmospheric compensation of variations in tropical ocean heat transport: understanding mechanisms and implications on tectonic timescales (poster), AGU Fall Meeting, 12/2015
+- Rose, BEJ, Climate in the Absence of Ocean Heat Tranpsort (poster), AGU Fall Meeting, 12/2015
+- Rose, BEJ, CLIMLAB: a Python-based software toolkit for interactive, process-oriented climate modeling (poster), AGU Fall Meeting, 12/2015
 - Rose, BEJ, Accidental Lessons on Nonlinear Wind - Ocean - Sea Ice Interaction in the Tropics, with Implications for Snowball Earth (poster), AGU Fall Meeting, 12/2014
 - Rose, BEJ, The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake (oral presentation), Latsis Symposium, ETH Zurich, 06/2014. 
 - Rose, BEJ, D. Battisti and K. Armour, The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake (oral presentation), AGU Fall Meeting, 12/2013. 
@@ -120,9 +128,12 @@ Pablo Paiewonsky, Chris Colose, Ted Letcher, Hannah Attard (all in progress)
 - Rose, BEJ and CA Lin, A reconstruction of historical summer drought in Quebec based on tree rings (poster), Symposium Ouranos sur les changements climatiques, Montreal QC, 06/2004.
 - Rose, BEJ and CA Lin, Statistical relation between precipitation and vertical motion (oral presentation), Canadian CLIVAR Network Workshop, Victoria BC, 02/2001.
 
+\* *indicates student co-author*
 
 ## Professional Service and Outreach
 - Reviewer for Nature, J. Climate, J. Atmos. Sci., J. Geophys. Res., Geophys. Res. Lett., Nature Geosci., Nature Clim. Change, SIAM J. Appl. Dyn. Sys., Earth Sys. Dyn., & Encyclopedia of Natural Resources
+- Proposal reviewer for National Science Foundation
+- DAES graduate committee member (2015 - )
 - Chair, planning committee for GFD / Env. Sci. teaching laboratory in E-TEC building. (2014 - )
 - Organizer, DAES Climate Group weekly seminar series (2014 - )
 - Session Convener: “Innovative Insights into the Climate System and Climate Models: Exploring Scales and Parameter Spaces”, AGU Fall Meeting 2014.
