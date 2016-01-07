@@ -136,6 +136,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - DAES graduate committee member (2015 - )
 - Chair, planning committee for GFD / Env. Sci. teaching laboratory in E-TEC building. (2014 - )
 - Organizer, DAES Climate Group weekly seminar series (2014 - )
+- Session Convener: “Polar Climate and Predictability”, AGU Fall Meeting 2015.
 - Session Convener: “Innovative Insights into the Climate System and Climate Models: Exploring Scales and Parameter Spaces”, AGU Fall Meeting 2014.
 - Judge for Outstanding Student Presentation Awards, AGU Fall Meeting, 2013.
 - Commendation for exceptional refereeing, Nature Publishing Group, 2012.
