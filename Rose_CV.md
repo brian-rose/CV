@@ -2,7 +2,7 @@
 
 ## *Curriculum Vitae*
 
-Assistant Professor, Atmospheric and Environmental Sciences, University at Albany (SUNY) 
+Assistant Professor, Atmospheric and Environmental Sciences, University at Albany (SUNY)
 
 Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA  
 (518) 442-4477  |  <brose@albany.edu>   
@@ -40,7 +40,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 ## Publications  	
 *reprints available at <http://www.atmos.albany.edu/facstaff/brose/>*
 
-- Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. *Revised for J. Climate*
+- Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. J. Climate (in press).
 - Rose, BEJ (2015), Stable “Waterbelt” climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
 - Rose, BEJ, K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41, doi:10.1002/2013GL058955. [pdf reprint][heat uptake]
 - Rose, BEJ, D Ferreira and J Marshall (2013), The role of oceans and sea ice in abrupt transitions between multiple climate states.  J. Climate 26, 2862-2879. [pdf reprint][transitions]
@@ -56,7 +56,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Lance Rayborn (PhD student, 2015 - )
 - Michael Cameron Rencurrel (PhD student, 2014 - )
 - Deborah McGlynn (Undergraduate thesis, 2014)
-	- to begin MS studies at SUNY ESF fall 2015
+	- currently graduate student at SUNY ESF
 
 ## PhD Committees
 - Pablo Paiewonsky, Chris Colose, Ted Letcher, Hannah Attard (all in progress at U. Albany)
@@ -71,8 +71,8 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Jule G. Charney Prize and MIT Presidential Fellowship, 2004
 - Dean’s Honour List for M.Sc. thesis, McGill University, 2002
 - NSERC Graduate Fellowship, McGill University, 2001-2002
-- Meteorological Service of Canada supplement to NSERC Graduate Fellowship, 2001 (declined) 
-- NSERC Undergraduate Research Fellowship, 1999 
+- Meteorological Service of Canada supplement to NSERC Graduate Fellowship, 2001 (declined)
+- NSERC Undergraduate Research Fellowship, 1999
 - James McGill Scholarship and J.S. Marshall Prize, McGill University, 1995-1999
 
 ## Summer Schools and Workshops
@@ -90,11 +90,11 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Courant Institute, NYU: The role of oceans in climate sensitivity and radiative feedbacks. 10/2013
 - SIAM Dynamical Systems conference: Multiple sea ice states and hysteresis in climate models. 5/2013
 - McGill University, Atmos. & Oceanic Sci.:  One wet planet, many climates. 3/2013
-- UW, Atmos. Sci.: Climate sensitivity and the oceans. 3/2013 
-- U. Albany, Atmos. & Environ. Sci.: One wet planet, many climates. 1/2013 
-- UW, Atmos. Sci.: Understanding why ocean heat transport matters: a multi-model approach. 11/2012 
-- MIT EAPS: Why does the climate system care about ocean heat transport? 5/2012 
-- UW, Oceanography: Modeling* the role of oceans and sea ice in multiple equilibria, abrupt climate change, and Snowball Earth (* and maybe understanding). 4/2012 
+- UW, Atmos. Sci.: Climate sensitivity and the oceans. 3/2013
+- U. Albany, Atmos. & Environ. Sci.: One wet planet, many climates. 1/2013
+- UW, Atmos. Sci.: Understanding why ocean heat transport matters: a multi-model approach. 11/2012
+- MIT EAPS: Why does the climate system care about ocean heat transport? 5/2012
+- UW, Oceanography: Modeling* the role of oceans and sea ice in multiple equilibria, abrupt climate change, and Snowball Earth (* and maybe understanding). 4/2012
 - U. Chicago, Geophysical Sci.: Water, water everywhere: role of oceans in warm climates. 4/2012
 - LDEO, Columbia U.: Why does the climate system care about ocean heat transport? 3/2012
 - U. Chicago, Geophysical Sci.: Why does the climate system care about ocean heat transport? 10/2011
@@ -105,13 +105,14 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Harvard U., Earth and Planetary Sci.: Multiple equilibria of sea ice and climate. 09/2010
 
 ## Contributed Presentations
+- Rose, BEJ, Robust non-local effects of ocean heat uptake on radiative feedback and subtropical cloud cover (oral presentation), Ocean Sciences, 2/2016
 - Rayborn, Lance* and BEJ Rose, Robust effects of ocean heat uptake on radiative feedback and subtropical cloud cover: a study using radiative kernels (oral presentation), AGU Fall Meeting, 12/2015
 - Rencurrel, M. Cameron* and BEJ Rose, Atmospheric compensation of variations in tropical ocean heat transport: understanding mechanisms and implications on tectonic timescales (poster), AGU Fall Meeting, 12/2015
 - Rose, BEJ, Climate in the Absence of Ocean Heat Tranpsort (poster), AGU Fall Meeting, 12/2015
 - Rose, BEJ, CLIMLAB: a Python-based software toolkit for interactive, process-oriented climate modeling (poster), AGU Fall Meeting, 12/2015
 - Rose, BEJ, Accidental Lessons on Nonlinear Wind - Ocean - Sea Ice Interaction in the Tropics, with Implications for Snowball Earth (poster), AGU Fall Meeting, 12/2014
-- Rose, BEJ, The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake (oral presentation), Latsis Symposium, ETH Zurich, 06/2014. 
-- Rose, BEJ, D. Battisti and K. Armour, The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake (oral presentation), AGU Fall Meeting, 12/2013. 
+- Rose, BEJ, The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake (oral presentation), Latsis Symposium, ETH Zurich, 06/2014.
+- Rose, BEJ, D. Battisti and K. Armour, The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake (oral presentation), AGU Fall Meeting, 12/2013.
 - Rose, BEJ, Understanding the atmospheric response to ocean heat transport: a model inter-comparison  (oral presentation), AGU Fall Meeting, 12/2012.
 - Rose, BEJ, D Ferreira and J Marshall, Not all poleward heat transport is created equal: a new look at warm climates, water vapor feedback, and the low-temperature-gradient paradox  (oral presentation), AGU Fall Meeting, 12/2011.
 - Rose, BEJ, D Ferreira and J Marshall, On the dynamics of an abrupt climate change (oral presentation), CMOS Congress, Victoria BC, 06/2011.
