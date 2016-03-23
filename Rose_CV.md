@@ -40,7 +40,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 ## Publications  	
 *reprints available at <http://www.atmos.albany.edu/facstaff/brose/>*
 
-- Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. J. Climate (in press).
+- Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. J. Climate (in press). [pdf preprint][water vapor]
 - Rose, BEJ (2015), Stable “Waterbelt” climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
 - Rose, BEJ, K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41, doi:10.1002/2013GL058955. [pdf reprint][heat uptake]
 - Rose, BEJ, D Ferreira and J Marshall (2013), The role of oceans and sea ice in abrupt transitions between multiple climate states.  J. Climate 26, 2862-2879. [pdf reprint][transitions]
@@ -148,6 +148,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Public seminar:  “Looking Back on the Future of Climate Change”, MIT, 01/2008.
 - Member of American Geophysical Union.
 
+[water vapor]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Rencurrel_JClim2016_preprint.pdf
 
 [waterbelt]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_JGR2015.pdf
 
