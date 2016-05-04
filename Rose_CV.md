@@ -23,12 +23,11 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Research Assistant, McGill University and Centre de recherche en calcul appliqué, Montreal (2000)
 
 ## Teaching
-- UAlbany A ATM/ENV 415 Climate Laboratory (2016)
-- UAlbany A ATM 500 Atmospheric Dynamics (2015)
-- UAlbany A ATM 623 Climate Modeling (2015)
-- UAlbany A ATM 316 Dynamic Meteorology I (2014)
-- UAlbany A ENV 480 Climate Laboratory (2014)
-- UAlbany A ATM 619 Oceans and Climate Seminar (2013)
+- UAlbany A ATM/ENV 415 Climate Laboratory (2016 S, 2014 S) (previously A ENV 480)
+- UAlbany A ATM 500 Atmospheric Dynamics (2016 F, 2015 F)
+- UAlbany A ATM 623 Climate Modeling (2015 S)
+- UAlbany A ATM 316 Dynamic Meteorology I (2014 F)
+- UAlbany A ATM 619 Oceans and Climate Seminar (2013 F)
 - UW ATMS 542 Geophysical Fluid Dynamics II, co-taught with David Battisti (2013)
 - UW ATMS 514 / ESS 535 Ice and Climate, some guest lectures for C.M. Bitz (2011, 2013)
 - Lecturer, Advanced Climate Dynamic Course ACDC2011, “Dynamics of Past Warm Climates” (2011)
@@ -40,6 +39,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 ## Publications  	
 *reprints available at <http://www.atmos.albany.edu/facstaff/brose/>*
 
+- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren (2016), Climate dynamics of Snowball Earth and Cryogenian geology–geobiology. Science Advances (submitted).
 - Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. J. Climate (in press). [pdf preprint][water vapor]
 - Rose, BEJ (2015), Stable “Waterbelt” climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
 - Rose, BEJ, K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41, doi:10.1002/2013GL058955. [pdf reprint][heat uptake]
@@ -83,6 +83,8 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - International Sea Ice Summer School, Svalbard.  07/2007
 
 ## Invited Presentations
+- UW, Atmos. Sci.: The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. 4/2016
+- UW, Atmos. Sci.: Climate in the absence of ocean heat transport. 4/ 2016
 - Columbia University, SEAS Colloquium in Climate Science: Understanding the effects of ocean circulation on radiative feedbacks and the planetary energy budget. 11/2015
 - Stony Brook University, Marine & Atmos. Sci.: Understanding the effects of ocean circulation on radiative feedbacks and the planetary energy budget. 9/2015
 - Massachusetts College of Liberal Arts: What sets the temperature of the Earth? (public lecture) 1/2015
