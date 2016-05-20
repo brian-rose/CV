@@ -30,8 +30,8 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - UAlbany A ATM 619 Oceans and Climate Seminar (2013 F)
 - UW ATMS 542 Geophysical Fluid Dynamics II, co-taught with David Battisti (2013)
 - UW ATMS 514 / ESS 535 Ice and Climate, some guest lectures for C.M. Bitz (2011, 2013)
-- Lecturer, Advanced Climate Dynamic Course ACDC2011, “Dynamics of Past Warm Climates” (2011)
-- Lecture note preparation for P. O’Gorman, General Circulation of the Atmosphere, MIT (2009)
+- Lecturer, Advanced Climate Dynamic Course ACDC2011, "Dynamics of Past Warm Climates" (2011)
+- Lecture note preparation for P. O'Gorman, General Circulation of the Atmosphere, MIT (2009)
 - Teaching assistant, guest lecturer for J. Marshall, Physics of Atmospheres and Oceans, MIT (2007)
 - Lab assistant for middle school science class, Fayerweather Street School, Cambridge MA (2006-2007)
 - Teaching assistant for R.S. Lindzen, Strange bedfellows: science and environmental policy, MIT (2006)
@@ -39,9 +39,9 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 ## Publications  	
 *reprints available at <http://www.atmos.albany.edu/facstaff/brose/>*
 
-- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren (2016), Climate dynamics of Snowball Earth and Cryogenian geology–geobiology. Science Advances (submitted).
+- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren (2016), Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (submitted).
 - Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. J. Climate (in press). [pdf preprint][water vapor]
-- Rose, BEJ (2015), Stable “Waterbelt” climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
+- Rose, BEJ (2015), Stable "Waterbelt" climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
 - Rose, BEJ, K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41, doi:10.1002/2013GL058955. [pdf reprint][heat uptake]
 - Rose, BEJ, D Ferreira and J Marshall (2013), The role of oceans and sea ice in abrupt transitions between multiple climate states.  J. Climate 26, 2862-2879. [pdf reprint][transitions]
 - Rose, BEJ and D Ferreira (2013), Ocean heat transport and water vapor greenhouse in a warm equable climate: a new look at the low gradient paradox.  J. Climate 26, 2117-2136. [pdf reprint][RF13]
@@ -69,7 +69,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - NOAA Climate and Global Change Postdoctoral Fellowship, 2010-2012
 - Carl-Gustav Rossby Prize for best thesis, MIT, 2010
 - Jule G. Charney Prize and MIT Presidential Fellowship, 2004
-- Dean’s Honour List for M.Sc. thesis, McGill University, 2002
+- Dean's Honour List for M.Sc. thesis, McGill University, 2002
 - NSERC Graduate Fellowship, McGill University, 2001-2002
 - Meteorological Service of Canada supplement to NSERC Graduate Fellowship, 2001 (declined)
 - NSERC Undergraduate Research Fellowship, 1999
@@ -140,15 +140,15 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - DAES graduate committee member (2015 - )
 - Chair, planning committee for GFD / Env. Sci. teaching laboratory in E-TEC building. (2014 - )
 - Organizer, DAES Climate Group weekly seminar series (2014 - )
-- Session Convener: “Polar Climate and Predictability”, AGU Fall Meeting 2015.
-- Session Convener: “Innovative Insights into the Climate System and Climate Models: Exploring Scales and Parameter Spaces”, AGU Fall Meeting 2014.
+- Session Convener: "Polar Climate and Predictability", AGU Fall Meeting 2015.
+- Session Convener: "Innovative Insights into the Climate System and Climate Models: Exploring Scales and Parameter Spaces", AGU Fall Meeting 2014.
 - Judge for Outstanding Student Presentation Awards, AGU Fall Meeting, 2013.
 - Commendation for exceptional refereeing, Nature Publishing Group, 2012.
 - Convener and moderator, Workshop on heat transport in aquaplanet models, UW Atmos. Sci., 07/2012.
 - Moderator, climate dynamics session, 20th anniversary celebration of the NOAA C&GC Postdoctoral Fellowship Program, Silver Spring MD, 04/2011.
 - Chair (invited), ocean circulation session, 3rd Graduate Climate Conference, UW, 04/2009.
 - Session leader, YouthCAN Summit on Global Warming, MIT (2007, 2008, 2009)
-- Public seminar:  “Looking Back on the Future of Climate Change”, MIT, 01/2008.
+- Public seminar:  "Looking Back on the Future of Climate Change", MIT, 01/2008.
 - Member of American Geophysical Union.
 
 [water vapor]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Rencurrel_JClim2016_preprint.pdf
