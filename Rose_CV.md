@@ -59,7 +59,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 	- currently graduate student at SUNY ESF
 
 ## PhD Committees
-- Pablo Paiewonsky, Chris Colose, Ted Letcher, Hannah Attard (all in progress at U. Albany)
+- Pablo Paiewonsky, Chris Colose, Ted Letcher, Hannah Attard, Lanxi Min (all in progress at U. Albany)
 - Anthony Coletti (U. Massachusetts Amherst)
 
 ## Grants
@@ -134,6 +134,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 \* *indicates student co-author*
 
 ## Professional Service and Outreach
+- Creator and developer of the [CLIMLAB](https://github.com/brian-rose/climlab) open-source software package
 - Reviewer for Nature, J. Climate, J. Atmos. Sci., J. Geophys. Res., Geophys. Res. Lett., Nature Geosci., Nature Clim. Change, SIAM J. Appl. Dyn. Sys., Earth Sys. Dyn., & Encyclopedia of Natural Resources
 - Proposal reviewer for National Science Foundation
 - DAES graduate committee member (2015 - )
