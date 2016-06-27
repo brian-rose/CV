@@ -113,7 +113,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Rose, BEJ, Robust non-local effects of ocean heat uptake on radiative feedback and subtropical cloud cover (oral presentation), Ocean Sciences, 2/2016
 - Rayborn, Lance* and BEJ Rose, Robust effects of ocean heat uptake on radiative feedback and subtropical cloud cover: a study using radiative kernels (oral presentation), AGU Fall Meeting, 12/2015
 - Rencurrel, M. Cameron* and BEJ Rose, Atmospheric compensation of variations in tropical ocean heat transport: understanding mechanisms and implications on tectonic timescales (poster), AGU Fall Meeting, 12/2015
-- Rose, BEJ, Climate in the Absence of Ocean Heat Tranpsort (poster), AGU Fall Meeting, 12/2015
+- Rose, BEJ, Climate in the Absence of Ocean Heat Transport (poster), AGU Fall Meeting, 12/2015
 - Rose, BEJ, CLIMLAB: a Python-based software toolkit for interactive, process-oriented climate modeling (poster), AGU Fall Meeting, 12/2015
 - Rose, BEJ, Accidental Lessons on Nonlinear Wind - Ocean - Sea Ice Interaction in the Tropics, with Implications for Snowball Earth (poster), AGU Fall Meeting, 12/2014
 - Rose, BEJ, The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake (oral presentation), Latsis Symposium, ETH Zurich, 06/2014.
