@@ -40,8 +40,8 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 
 *reprints available at <http://www.atmos.albany.edu/facstaff/brose/>*
 
+- Rose, BEJ and L. Rayborn* (2016), The effects of ocean heat uptake on transient climate sensitivity. Current Climate Change Reports (revised).
 - Voigt, A., M. Biasutti, J. Scheff, J. Bader, S. Bordoni, F. Codron, R.D. Dixon, S. Kang, N.P. Klingaman, R. Leung, J. Liu, B. Mapes, E.A. Maroon, S. McDermid, J. Park, R. Roehrig, B.E.J. Rose, J. Seo, T. Toniazzo, M. Yoshimori, and L.R.V. Zeppetello (2016), The Tropical Rain belts with an Annual Cycle and Continent Model Intercomparison Project: TRACMIP. JAMES (submitted).
-- Rose, BEJ and L. Rayborn* (2016), Ocean heat uptake and transient climate sensitivity. Current Climate Change Reports (submitted).
 - Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren (2016), Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (submitted).
 - Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. J. Climate 29, 4251--4268. [pdf reprint][water vapor]
 - Rose, BEJ (2015), Stable "Waterbelt" climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
