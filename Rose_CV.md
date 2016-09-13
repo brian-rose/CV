@@ -155,8 +155,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Public seminar:  "Looking Back on the Future of Climate Change", MIT, 01/2008.
 - Member of American Geophysical Union.
 
-[efficacy]:
-http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Rayborn_CCCR2016.pdf
+[efficacy]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Rayborn_CCCR2016.pdf
 
 [water vapor]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Rencurrel_JClim2016.pdf
 
