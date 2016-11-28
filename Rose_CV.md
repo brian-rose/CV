@@ -8,6 +8,8 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 (518) 442-4477  |  <brose@albany.edu>   
 <http://www.atmos.albany.edu/facstaff/brose/>
 
+*Canadian citizen, lawful permanent resident of the USA, fluent in English and French*
+
 ## Education
 - **Ph.D. 2010**, Climate Physics and Chemistry, **Massachusetts Institute of Technology**. Oceanic control of the sea ice edge and multiple equilibria in the climate system (Advisor: J. Marshall. Awarded 2010 Rossby Prize.)
 - **M.Sc. 2002**, Atmospheric and Oceanic Sciences, **McGill University**. A diagnostic scheme for global precipitation based on vertical motion (Advisor: C.A. Lin)
