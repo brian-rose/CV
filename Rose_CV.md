@@ -40,9 +40,10 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 
 *reprints available at <http://www.atmos.albany.edu/facstaff/brose/>*
 
+### Published
+
 - Rose, BEJ and L. Rayborn* (2016), The effects of ocean heat uptake on transient climate sensitivity. Current Climate Change Reports, doi:10.1007/s40641-016-0048-4. [pdf reprint][efficacy]
-- Voigt, A., M. Biasutti, J. Scheff, J. Bader, S. Bordoni, F. Codron, R.D. Dixon, J. Jonas, S.M. Kang, N.P. Klingaman, R. Leung, J. Lu, B. Mapes, E.A. Maroon, S. McDermid, J. Park, R. Roehrig, B.E.J. Rose, G.L. Russell, J. Seo, T. Toniazzo, H. Wei, M. Yoshimori, and L.R.V. Zeppetello (2016), The Tropical Rain belts with an Annual Cycle and Continent Model Intercomparison Project: TRACMIP. J. Adv. Model. Earth Syst. (accepted).
-- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren (2016), Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (in revision).
+- Voigt, A., M. Biasutti, J. Scheff, J. Bader, S. Bordoni, F. Codron, R.D. Dixon, J. Jonas, S.M. Kang, N.P. Klingaman, R. Leung, J. Lu, B. Mapes, E.A. Maroon, S. McDermid, J. Park, R. Roehrig, B.E.J. Rose, G.L. Russell, J. Seo, T. Toniazzo, H. Wei, M. Yoshimori, and L.R.V. Zeppetello (2016), The Tropical Rain belts with an Annual Cycle and Continent Model Intercomparison Project: TRACMIP. J. Adv. Model. Earth Syst. (accepted), doi:10.1002/2016MS000748 [pdf preprint][tracmip]
 - Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. J. Climate 29, 4251--4268. [pdf reprint][water vapor]
 - Rose, BEJ (2015), Stable "Waterbelt" climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
 - Rose, BEJ, K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41, doi:10.1002/2013GL058955. [pdf reprint][heat uptake]
@@ -53,17 +54,25 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Rose, BEJ and J Marshall (2009): Ocean heat transport, sea ice, and multiple climate states: insights from energy balance models.  J. Atmos. Sci. 66, 2828-2843. [pdf reprint][RM09]
 - Rose, BEJ and CA Lin (2003): Precipitation from vertical motion: a statistical diagnostic scheme.  Int. J. Climatol. 23, 903-919. [pdf reprint][RL03]
 
+### Under review, submitted and in preparation
+
+- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren, Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (in revision).
+- Rose, BEJ, TW Cronin and CM Bitz, Ice Caps and Ice Belts: the effects of obliquity on albedo feedback. (submitted)
+- Rose, BEJ, Climate in the absence of ocean heat transport. (in prep.)
+- Rayborn, L* and BEJ Rose, Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake. (in prep.)
+- Rencurrel, MC* and BEJ Rose, Understanding Atmospheric Adjustment to a Wide Range of Variations in Ocean Heat Transport. (in prep.)
+
 \* *indicates student co-author*
 
 ## Students Advised
 - Christopher Cardinale (PhD student, 2016 - )
-- Lance Rayborn (PhD student, 2015 - )
+- Lance Rayborn (MS thesis completed 12/2016)
 - Michael Cameron Rencurrel (PhD student, 2014 - )
 - Deborah McGlynn (Undergraduate thesis, 2014)
 	- currently graduate student at SUNY ESF
 
 ## PhD Committees
-- Pablo Paiewonsky, Chris Colose, Ted Letcher, Hannah Attard, Lanxi Min, Di Chen (all in progress at U. Albany)
+- Pablo Paiewonsky, Chris Colose (defending 12/2016), Ted Letcher, Hannah Attard, Lanxi Min, Di Chen (all in progress at U. Albany)
 - Anthony Coletti (U. Massachusetts Amherst)
 
 ## Grants
@@ -80,7 +89,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - James McGill Scholarship and J.S. Marshall Prize, McGill University, 1995-1999
 
 ## Summer Schools and Workshops
-- AOSPY / Pangeo software workshop, Columbia University. 11/2016
+- AOSPY / Pangeo scientific software workshop, Columbia University. 11/2016
 - UW PCC Summer Institute: Atmosphere-Ocean-Ice Shelf Interactions, Friday Harbor, WA.  09/2012
 - NOAA Climate and Global Change Summer Institute, Steamboat Springs, CO.  07/2012
 - ACDC2011:  Dynamics of Past Warm Climates, Friday Harbor, WA.  09/2011
@@ -112,10 +121,14 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Harvard U., Earth and Planetary Sci.: Multiple equilibria of sea ice and climate. 09/2010
 
 ## Contributed Presentations
+- Rose, BEJ and L Rayborn, Climate sensitivity increases as ocean heat uptake declines: a linear systems perspective (oral presentation), AGU Fall Meeting, 12/2016
+- Rose, BEJ, Interactive, process-oriented climate modeling with CLIMLAB (oral presentation), AGU Fall Meeting, 12/2016
+- Rayborn, L and BEJ Rose, Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake (oral presentation), AGU Fall Meeting, 12/2016
+- Rencurrel, MC* and BEJ Rose, Understanding Atmospheric Adjustment to Variations in Tropical Ocean Heat Transport (poster), AGU Fall Meeting, 12/2016
 - Rose, BEJ, Robust non-local effects of ocean heat uptake on radiative feedback and subtropical cloud cover (oral presentation), Model Hierarchies workshop, Princeton, 11/2016
 - Rose, BEJ, Robust non-local effects of ocean heat uptake on radiative feedback and subtropical cloud cover (oral presentation), Ocean Sciences, 2/2016
-- Rayborn, Lance* and BEJ Rose, Robust effects of ocean heat uptake on radiative feedback and subtropical cloud cover: a study using radiative kernels (oral presentation), AGU Fall Meeting, 12/2015
-- Rencurrel, M. Cameron* and BEJ Rose, Atmospheric compensation of variations in tropical ocean heat transport: understanding mechanisms and implications on tectonic timescales (poster), AGU Fall Meeting, 12/2015
+- Rayborn, L* and BEJ Rose, Robust effects of ocean heat uptake on radiative feedback and subtropical cloud cover: a study using radiative kernels (oral presentation), AGU Fall Meeting, 12/2015
+- Rencurrel, MC* and BEJ Rose, Atmospheric compensation of variations in tropical ocean heat transport: understanding mechanisms and implications on tectonic timescales (poster), AGU Fall Meeting, 12/2015
 - Rose, BEJ, Climate in the Absence of Ocean Heat Transport (poster), AGU Fall Meeting, 12/2015
 - Rose, BEJ, CLIMLAB: a Python-based software toolkit for interactive, process-oriented climate modeling (poster), AGU Fall Meeting, 12/2015
 - Rose, BEJ, Accidental Lessons on Nonlinear Wind - Ocean - Sea Ice Interaction in the Tropics, with Implications for Snowball Earth (poster), AGU Fall Meeting, 12/2014
@@ -143,10 +156,11 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Creator and developer of the [CLIMLAB](https://github.com/brian-rose/climlab) and [pyCESM](https://github.com/brian-rose/pyCESM) open-source software packages
 - Reviewer for Nature, J. Climate, J. Atmos. Sci., J. Geophys. Res., Geophys. Res. Lett., Nature Geosci., Nature Clim. Change, SIAM J. Appl. Dyn. Sys., Earth Sys. Dyn., & Encyclopedia of Natural Resources
 - Proposal reviewer for National Science Foundation
-- CAS Faculty Council (2016 - )
+- UAlbany CAS Faculty Council member (2016 - )
 - DAES graduate committee member (2015 - )
 - Chair, planning committee for GFD / Env. Sci. teaching laboratory in E-TEC building. (2014 - )
 - Organizer, DAES Climate Group weekly seminar series (2014 - )
+- Academic advisor for roughly 10 undergraduate students in Atmospheric Science and Environmental Science.
 - Session Convener: "Polar Climate and Predictability", AGU Fall Meeting 2015.
 - Session Convener: "Innovative Insights into the Climate System and Climate Models: Exploring Scales and Parameter Spaces", AGU Fall Meeting 2014.
 - Judge for Outstanding Student Presentation Awards, AGU Fall Meeting, 2013.
@@ -157,6 +171,8 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Session leader, YouthCAN Summit on Global Warming, MIT (2007, 2008, 2009)
 - Public seminar:  "Looking Back on the Future of Climate Change", MIT, 01/2008.
 - Member of American Geophysical Union.
+
+[tracmip]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Voigt_et_al-2016-Journal_of_Advances_in_Modeling_Earth_Systems.pdf
 
 [efficacy]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Rayborn_CCCR2016.pdf
 
