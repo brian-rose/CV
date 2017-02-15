@@ -58,12 +58,12 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 
 ### Under review, submitted and in preparation
 
-- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren, Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (revised).
-- Rose, BEJ, TW Cronin and CM Bitz, Ice Caps and Ice Belts: the effects of obliquity on albedo feedback. (submitted)
+- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G. Le Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, C.A. Partin, G. Ramstein, B.E.J. Rose, C.V. Rose, P.M. Sadler, E. Tziperman, A. Voigt, and S.G. Warren, Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (revised).
+- Rose, BEJ, TW Cronin and CM Bitz, Ice Caps and Ice Belts: the effects of obliquity on albedo feedback. (in prep.)
+- Haugstad, AD, K.C. Armour, D.S. Battisti and BEJ Rose, Reconciling distinct explanations for the inconstancy of radiative feedbacks. (in prep.)
 - Rose, BEJ, Climate in the absence of ocean heat transport. (in prep.)
 - Rose, BEJ and L. Rayborn*, Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake. (in prep.)
 - Rencurrel, MC* and BEJ Rose, Understanding Atmospheric Adjustment to a Wide Range of Variations in Ocean Heat Transport. (in prep.)
-- Haugstad, AD, K.C. Armour, D.S. Battisti and BEJ Rose, Reconciling distinct explanations for the inconstancy of radiative feedbacks. (in prep.)
 
 \* *indicates student co-author*
 
