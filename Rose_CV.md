@@ -58,23 +58,26 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 
 ### Under review, submitted and in preparation
 
-- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren, Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (in revision).
+- Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M. Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D. Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G.L. Hir, G.D. Love, F.A. Macdonald, A.C. Maloof, G. Ramstein, B.E.J. Rose, C.V. Rose, E. Tziperman, A. Voigt, and S.G. Warren, Climate dynamics of Snowball Earth and Cryogenian geology-geobiology. Science Advances (revised).
 - Rose, BEJ, TW Cronin and CM Bitz, Ice Caps and Ice Belts: the effects of obliquity on albedo feedback. (submitted)
 - Rose, BEJ, Climate in the absence of ocean heat transport. (in prep.)
-- Rayborn, L* and BEJ Rose, Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake. (in prep.)
+- Rose, BEJ and L. Rayborn*, Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake. (in prep.)
 - Rencurrel, MC* and BEJ Rose, Understanding Atmospheric Adjustment to a Wide Range of Variations in Ocean Heat Transport. (in prep.)
+- Haugstad, AD, K.C. Armour, D.S. Battisti and BEJ Rose, Reconciling distinct explanations for the inconstancy of radiative feedbacks. (in prep.)
 
 \* *indicates student co-author*
 
 ## Students Advised
 - Christopher Cardinale (PhD student, 2016 - )
 - Lance Rayborn (MS thesis completed 12/2016)
-- Michael Cameron Rencurrel (PhD student, 2014 - )
+- Michael Cameron Rencurrel (MS thesis completed 2/2017, PhD student, 2017 - )
 - Deborah McGlynn (Undergraduate thesis, 2014)
 	- currently graduate student at SUNY ESF
 
 ## PhD Committees
-- Pablo Paiewonsky, Chris Colose (defending 12/2016), Ted Letcher, Hannah Attard, Lanxi Min, Di Chen (all in progress at U. Albany)
+- Chris Colose (successfully defended 12/2016)
+- Ted Letcher (successfully defended 2/2017)
+- Pablo Paiewonsky, Hannah Attard, Lanxi Min, Di Chen (all in progress at U. Albany)
 - Anthony Coletti (U. Massachusetts Amherst)
 
 ## Grants
@@ -123,6 +126,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Harvard U., Earth and Planetary Sci.: Multiple equilibria of sea ice and climate. 09/2010
 
 ## Contributed Presentations
+- Rose, BEJ, CLIMLAB: a Python-Based Software Toolkit for Interactive, Process-Oriented Climate Modeling, AMS Seventh Symposium on Advances in Modeling and Analysis Using Python, 1/2017
 - Rose, BEJ and L Rayborn, Climate sensitivity increases as ocean heat uptake declines: a linear systems perspective (oral presentation), AGU Fall Meeting, 12/2016
 - Rose, BEJ, Interactive, process-oriented climate modeling with CLIMLAB (oral presentation), AGU Fall Meeting, 12/2016
 - Rayborn, L and BEJ Rose, Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake (oral presentation), AGU Fall Meeting, 12/2016
@@ -157,7 +161,8 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 ## Professional Service and Outreach
 - Creator and developer of the [CLIMLAB](https://github.com/brian-rose/climlab) and [pyCESM](https://github.com/brian-rose/pyCESM) open-source software packages
 - Reviewer for Nature, J. Climate, J. Atmos. Sci., J. Geophys. Res., Geophys. Res. Lett., Nature Geosci., Nature Clim. Change, SIAM J. Appl. Dyn. Sys., Earth Sys. Dyn., & Encyclopedia of Natural Resources
-- Proposal reviewer for National Science Foundation
+- Proposal reviewer for National Science Foundation and United States-Israel Binational Science Foundation
+- Participant in Strategic Planning Steering Committee (Engaging Locally and Globally) (2017 - )
 - UAlbany CAS Faculty Council member (2016 - )
 - DAES graduate committee member (2015 - )
 - Chair, planning committee for GFD / Env. Sci. teaching laboratory in E-TEC building. (2014 - )
