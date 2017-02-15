@@ -45,7 +45,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 ### Published
 
 - Rose, BEJ and L. Rayborn* (2016), The effects of ocean heat uptake on transient climate sensitivity. Current Climate Change Reports 2, 190--201, doi:10.1007/s40641-016-0048-4. [pdf reprint][efficacy]
-- Voigt, A., M. Biasutti, J. Scheff, J. Bader, S. Bordoni, F. Codron, R.D. Dixon, J. Jonas, S.M. Kang, N.P. Klingaman, R. Leung, J. Lu, B. Mapes, E.A. Maroon, S. McDermid, J. Park, R. Roehrig, B.E.J. Rose, G.L. Russell, J. Seo, T. Toniazzo, H. Wei, M. Yoshimori, and L.R.V. Zeppetello (2016), The Tropical Rain belts with an Annual Cycle and Continent Model Intercomparison Project: TRACMIP. J. Adv. Model. Earth Syst. (accepted), doi:10.1002/2016MS000748 [pdf preprint][tracmip]
+- Voigt, A., M. Biasutti, J. Scheff, J. Bader, S. Bordoni, F. Codron, R.D. Dixon, J. Jonas, S.M. Kang, N.P. Klingaman, R. Leung, J. Lu, B. Mapes, E.A. Maroon, S. McDermid, J. Park, R. Roehrig, B.E.J. Rose, G.L. Russell, J. Seo, T. Toniazzo, H. Wei, M. Yoshimori, and L.R.V. Zeppetello (2016), The Tropical Rain belts with an Annual Cycle and Continent Model Intercomparison Project: TRACMIP. J. Adv. Model. Earth Syst. 8, 1868--1891, doi:10.1002/2016MS000748 [pdf reprint][tracmip]
 - Rose, BEJ and M.C. Rencurrel* (2016), The vertical structure of tropospheric water vapor: comparing radiative and ocean-driven climate changes. J. Climate 29, 4251--4268. [pdf reprint][water vapor]
 - Rose, BEJ (2015), Stable "Waterbelt" climates controlled by tropical ocean heat transport: a non-linear coupled climate mechanism of relevance to Snowball Earth. J. Geophys. Res. 150, doi:10.1002/2014JD022659 [pdf reprint][waterbelt]
 - Rose, BEJ, K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The dependence of transient climate sensitivity and radiative feedbacks on the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41, doi:10.1002/2013GL058955. [pdf reprint][heat uptake]
@@ -179,7 +179,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Public seminar:  "Looking Back on the Future of Climate Change", MIT, 01/2008.
 - Member of American Geophysical Union.
 
-[tracmip]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Voigt_et_al-2016-Journal_of_Advances_in_Modeling_Earth_Systems.pdf
+[tracmip]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Voigt_et_al-2016-TRACMIP.pdf
 
 [efficacy]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Rose_Rayborn_CCCR2016.pdf
 
