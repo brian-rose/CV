@@ -158,7 +158,7 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 
 \* *indicates student co-author*
 
-## Professional Service and Outreach
+## Professional Service
 - Creator and developer of the [CLIMLAB](https://github.com/brian-rose/climlab) and [pyCESM](https://github.com/brian-rose/pyCESM) open-source software packages
 - Reviewer for Nature, J. Climate, J. Atmos. Sci., J. Geophys. Res., Geophys. Res. Lett., Nature Geosci., Nature Clim. Change, SIAM J. Appl. Dyn. Sys., Earth Sys. Dyn., & Encyclopedia of Natural Resources
 - Proposal reviewer for National Science Foundation and United States-Israel Binational Science Foundation
@@ -175,9 +175,14 @@ Earth Sciences 351, 1400 Washington Ave., Albany NY, 12222 USA
 - Convener and moderator, Workshop on heat transport in aquaplanet models, UW Atmos. Sci., 07/2012.
 - Moderator, climate dynamics session, 20th anniversary celebration of the NOAA C&GC Postdoctoral Fellowship Program, Silver Spring MD, 04/2011.
 - Chair (invited), ocean circulation session, 3rd Graduate Climate Conference, UW, 04/2009.
+- Member of American Geophysical Union and American Meteorological Society
+
+## Outreach
+
+- UAlbany Family Earth Day, rotating table demonstrations, 04/2016
 - Session leader, YouthCAN Summit on Global Warming, MIT (2007, 2008, 2009)
 - Public seminar:  "Looking Back on the Future of Climate Change", MIT, 01/2008.
-- Member of American Geophysical Union.
+
 
 [tracmip]: http://www.atmos.albany.edu/facstaff/brose/resources/Publications/Voigt_et_al-2016-TRACMIP.pdf
 
