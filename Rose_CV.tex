@@ -1,0 +1,698 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Compact Academic CV
+% LaTeX Template
+% Version 1.0 (10/6/2012)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Dario Taraborelli (http://nitens.org/taraborelli/home)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+% Important:
+% This template needs to be compiled using XeLaTeX
+%
+% Note: this template has the option to use the Hoefler Text font, see the
+% font configurations section below for instructions on using this font
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[11pt, letterpaper]{article} % Document font size and paper size
+
+\usepackage{fontspec} % Allows the use of OpenType fonts
+
+\usepackage{geometry} % Allows the configuration of document margins
+\geometry{letterpaper, textwidth=5.5in, textheight=8.5in, marginparsep=7pt, marginparwidth=.6in} % Document margin settings
+\setlength\parindent{0in} % Remove paragraph indentation
+
+\usepackage[usenames,dvipsnames]{xcolor} % Custom colors
+
+\usepackage{sectsty} % Allows changing the font options for sections in a document
+\usepackage[normalem]{ulem} % Custom underlining
+\usepackage{xunicode} % Allows generation of unicode characters from accented glyphs
+\defaultfontfeatures{Mapping=tex-text} % Converts LaTeX specials (``quotes'' --- dashes etc.) to unicode
+
+\usepackage{marginnote} % For margin years
+\newcommand{\years}[1]{\marginnote{\scriptsize #1}} % New command for including margin years
+\renewcommand*{\raggedleftmarginnote}{}
+\setlength{\marginparsep}{7pt} % Slightly increase the distance of the margin years from the contant
+\reversemarginpar
+
+\usepackage[xetex, bookmarks, colorlinks, breaklinks, pdftitle={Brian E. J. Rose - vita},pdfauthor={Brian E. J. Rose}]{hyperref} % PDF setup - set your name and the title of the document to be incorporated into the final PDF file meta-information
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=MidnightBlue} % Link colors
+
+%. Make a nice header
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+%\lhead{Brian E. J. Rose}
+\chead{Brian E. J. Rose}
+%\rhead{page \thepage}
+\rhead{\thepage}
+%\cfoot{center of the footer!}
+\cfoot{\scriptsize Last updated: \today}
+\renewcommand{\headrulewidth}{0.4pt}
+%\renewcommand{\footrulewidth}{0.4pt}
+
+%----------------------------------------------------------------------------------------
+%	FONT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+% Two font choices are available in this template, the default is Linux Libertine, available for free at: http://www.linuxlibertine.org while the secondary choice is Hoefler Text which comes bundled with Mac OSX.
+% To use Hoefler Text, comment out the Linux Libertine block below and uncomment the Hoefler Text block. You will also need to replace the "\&" characters with "\amper{}" in section titles.
+
+% Linux Libertine Font (default)
+%\setromanfont [Ligatures={Common}, Numbers={OldStyle}, Variant=01]{Linux Libertine O} % Main text font
+%%\setmonofont[Scale=0.8]{Monaco} % Set mono font (e.g. phone numbers)
+%\sectionfont{\mdseries\upshape\Large} % Set font options for sections
+%\subsectionfont{\mdseries\scshape\normalsize} % Set font options for subsections
+%\subsubsectionfont{\mdseries\upshape\large} % Set font options for subsubsections
+%\chardef\&="E050 % Custom ampersand character
+
+% Hoefler Text Font (bundled with Mac OSX)
+\setromanfont [Ligatures={Common}, Numbers={OldStyle}]{Hoefler Text} % Main text font
+\setmonofont[Scale=0.8]{Monaco} % Set mono font (e.g. phone numbers)
+\setsansfont[Scale=0.9]{Optima Regular} % Set sans font, used in the main name and titles in the document
+\newcommand{\amper}{{\fontspec[Scale=.95]{Hoefler Text}\selectfont\itshape\&}} % Custom ampersand character
+\sectionfont{\sffamily\mdseries\large\underline} % Set font options for sections
+\subsectionfont{\rmfamily\mdseries\scshape\normalsize} % Set font options for subsections
+\subsubsectionfont{\rmfamily\bfseries\upshape\normalsize} % Set font options for subsubsections
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+%. No header on first page
+\thispagestyle{empty}
+
+%----------------------------------------------------------------------------------------
+%	CONTACT AND GENERAL INFORMATION SECTION
+%----------------------------------------------------------------------------------------
+
+{\LARGE Brian E. J. Rose}\\[0.3 cm] % Your name
+Assistant Professor \\
+Department of Atmospheric and Environmental Sciences \\
+University at Albany (SUNY) \\
+ES 351, 1400 Washington Ave., Albany NY \texttt{12222}, U.S.A.\\[.2cm]
+Phone: \texttt{(518) 442-4477}\\ % Your phone number
+Email: \href{mailto:brose@albany.edu}{brose@albany.edu}\\ % Your email address
+%\textsc{url}: \href{http://www.atmos.albany.edu/facstaff/brose/}{http://www.atmos.albany.edu/facstaff/brose/}\\ % Your academic/personal website
+Web: \href{http://www.atmos.albany.edu/facstaff/brose/}{http://www.atmos.albany.edu/facstaff/brose/}\\ % Your academic/personal website
+
+Canadian citizen, lawful permanent resident of the USA, fluent in English and French
+
+
+%\vfill % Whitespace between contact information and specific CV information
+
+%\section*{CURRENT POSITION}
+
+%\emph{Assistant Professor}, Department of Atmospheric and Environmental Sciences, University at Albany (SUNY) % Your current or previous employment position
+
+%------------------------------------------------
+
+%\section*{Areas of specialization}
+
+%Physics; Relativity Theory. % Your primary areas of research interest
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\section*{EDUCATION}
+
+\years{2010}\textsc{PhD}, Climate Physics and Chemistry, Massachusetts Institute of Technology \\
+Oceanic control of the sea ice edge and multiple equilibria in the climate system (Advisor:
+  J. Marshall. Awarded 2010 Rossby Prize.)
+
+\years{2002}\textsc{MSc}, Atmospheric and Oceanic Sciences, McGill University \\
+A diagnostic scheme for global precipitation based on
+  vertical motion (Advisor: C.A. Lin)
+
+\years{1999} \textsc{BSc}, Atmospheric and Oceanic Sciences, McGill
+  University \\
+  Numerical simulation of a mesoscale vortex over the Beaufort Sea (Advisor: M.K. Yau)
+
+
+
+\section*{APPOINTMENTS}
+
+\years{2013 --}
+  Assistant Professor (tenure-track), Atmospheric and Environmental
+  Sciences, University at Albany (SUNY) 
+  
+\years{2012 -- 2013}  Research Associate, Atmospheric Sciences, University of Washington
+
+\years{2010 -- 2012}
+  NOAA Climate and Global Change Postdoctoral Fellow, Atmospheric
+  Sciences, University of Washington. Host: David S. Battisti
+
+\years{2010}  Postdoctoral Associate, Earth, Atmospheric and Planetary Sciences, MIT
+
+\years{2005 -- 2010}  Research Assistant, Earth, Atmospheric and Planetary Sciences, MIT
+
+\years{2003 -- 2004} Research Assistant, Atmospheric and Oceanic Sciences, McGill
+  University
+
+\years{2000} Research Assistant, McGill University and \emph{Centre de recherche en
+  calcul appliqu\'{e}}, Montreal
+
+\section*{PUBLICATIONS}\label{publications}
+
+* \emph{indicates student co-author}
+\vspace{0.2 cm}
+
+\years{2016}
+  Voigt, A., M. Biasutti, J. Scheff, J. Bader, S. Bordoni, F. Codron,
+  R.D. Dixon, J. Jonas, S.M. Kang, N.P. Klingaman, R. Leung, J. Lu, B.
+  Mapes, E.A. Maroon, S. McDermid, J. Park, R. Roehrig, B.E.J. Rose,
+  G.L. Russell, J. Seo, T. Toniazzo, H. Wei, M. Yoshimori, and L.R.V.
+  Zeppetello (2016), The Tropical Rain belts with an Annual Cycle and
+  Continent Model Intercomparison Project: TRACMIP. J. Adv. Model. Earth
+  Syst. 8, 1868--1891, doi:10.1002/2016MS000748
+ 
+  
+\years{2016}  Rose, B.E.J. and L. Rayborn* (2016), The effects of ocean heat uptake on
+  transient climate sensitivity. Current Climate Change Reports 2,
+  190--201, doi:10.1007/s40641-016-0048-4.
+   
+\years{2016}  Rose, B.E.J. and M.C. Rencurrel* (2016), The vertical structure of
+  tropospheric water vapor: comparing radiative and ocean-driven climate
+  changes. J. Climate 29, 4251--4268.
+   
+\years{2015}  Rose, B.E.J. (2015), Stable ``Waterbelt'' climates controlled by tropical
+  ocean heat transport: a non-linear coupled climate mechanism of
+  relevance to Snowball Earth. J. Geophys. Res. 150,
+  doi:10.1002/2014JD022659
+  
+\years{2014}  Rose, B.E.J., K. Armour, D.S. Battisti, N. Feldl and D. Koll (2014), The
+  dependence of transient climate sensitivity and radiative feedbacks on
+  the spatial pattern of ocean heat uptake. Geophys. Res. Lett. 41,
+  doi:10.1002/2013GL058955.
+  
+\years{2013}  Rose, B.E.J., D. Ferreira and J. Marshall (2013), The role of oceans and
+  sea ice in abrupt transitions between multiple climate states. J.
+  Climate 26, 2862-2879.
+    
+\years{2013}  Rose, B.E.J. and D. Ferreira (2013), Ocean heat transport and water vapor
+  greenhouse in a warm equable climate: a new look at the low gradient
+  paradox. J. Climate 26, 2117-2136.
+  
+\years{2011}  Ferreira, D., J. Marshall and B.E.J. Rose (2011): Climate determinism
+  revisited: multiple equilibria in a complex climate model. J. Climate.
+  24, 992-1012.
+  
+\years{2010}  Rose, B.E.J. (2010): Oceanic control of the sea ice edge and multiple
+  equilibria in the climate system, PhD thesis, MIT, Cambridge MA.
+   
+\years{2009}  Rose, B.E.J. and J. Marshall (2009): Ocean heat transport, sea ice, and
+  multiple climate states: insights from energy balance models. J.
+  Atmos. Sci. 66, 2828-2843.
+  
+\years{2003}  Rose, B.E.J. and C.A. Lin (2003): Precipitation from vertical motion: a
+  statistical diagnostic scheme. Int. J. Climatol. 23, 903-919.
+
+\vspace{0.5 cm}
+\emph{Reprints available at
+\url{http://www.atmos.albany.edu/facstaff/brose/}}
+
+\section*{WORK IN PROGRESS}\label{work-in-progress}
+
+\years{2017}  Hoffman, P.F., D.S. Abbot, Y. Ashkenazy, D.I. Benn, P.A. Cohen, G.M.
+  Cox, J.R. Creveling, Y. Donnadieu, D.H. Erwin, I.J. Fairchild, D.
+  Ferreira, J.C. Goodman, G.P. Halverson, M.F. Jansen, G. Le Hir, G.D.
+  Love, F.A. Macdonald, A.C. Maloof, C.A. Partin, G. Ramstein, B.E.J.
+  Rose, C.V. Rose, P.M. Sadler, E. Tziperman, A. Voigt, and S.G. Warren,
+  Climate dynamics of Snowball Earth and Cryogenian geology-geobiology.
+  Science Advances (revised).
+
+\years{2017} Haugstad, A.D.*, K.C. Armour, D.S. Battisti and B.E.J. Rose, Reconciling distinct explanations for the inconstancy of radiative feedbacks. (revised for Geophys. Res. Lett.)
+
+\years{2017}  Rose, B.E.J., T.W. Cronin and C.M. Bitz, Ice Caps and Ice Belts: the effects of obliquity on albedo feedback. (to be submitted to Astrophys. J.)
+
+\years{2017}  Rose, B.E.J., Climate in the absence of ocean heat transport. (to be submitted to J. Adv. Model. Earth
+  Syst.)
+
+\years{2017}  Singh, H.A., P.J. Rasch and B.E.J. Rose, Increased Ocean Heat Transports into the High Latitudes with CO$_2$-Doubling Enhance Polar-Amplified Warming. (to be submitted to Geophys. Res. Lett.)
+
+\years{2017}  Rose, B.E.J., L. Rayborn* and N. Feldl, Understanding the Dependence of Radiative Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake. (in prep.)
+
+\years{2017}  Rencurrel, M.C.* and B.E.J. Rose, Climatic response to wide variations in ocean heat transport: perspectives from surface and top-of-atmosphere (in prep.)
+
+\years{2017}  Rencurrel, M.C.* and B.E.J. Rose, Understanding the Hadley circulation response to wide variations in ocean heat transport (in prep.)
+
+
+\section*{OTHER SCHOLARLY ACTIVITY}\label{other-scholarly-activity}
+
+\subsection*{DEVELOPER OF OPEN-SOURCE SCIENTIFIC COMPUTER SOFTWARE}\label{computer-software}
+
+\emph{All source code publicly available at
+\url{https://github.com/brian-rose/}}
+\vspace{0.2 cm}
+
+\years{2014 -- }
+  \href{https://github.com/brian-rose/climlab}{CLIMLAB}, a Python-based
+  toolkit for interactive, process-oriented climate modeling
+
+\years{2015 -- }
+  \href{https://github.com/brian-rose/pyCESM}{pyCESM}, a Python-based
+  analysis package for output from the Community Earth System Model
+
+
+\section*{GRANT FUNDING}\label{grant-funding}
+
+\years{2015 -- 2020}
+  CAREER: Understanding the role of oceans in the planetary energy
+  budget (PI). NSF, \$544,681
+
+\section*{PRESENTATIONS}\label{presentations}
+
+\subsection*{INVITED PRESENTATIONS}\label{invited-presentations}
+
+\years{2017/05} York University, Earth and Space Science \& Engineering: Global climate sensitivity goes up as ocean heat uptake declines: a linear systems perspective on inconstant climate feedbacks.
+
+\years{2017/03} MIT, PAOC seminar: Why does climate sensitivity go up as ocean heat uptake declines? A linear systems perspective.
+
+\years{2016/04} UW, Atmos. Sci.: The vertical structure of tropospheric water vapor:
+  comparing radiative and ocean-driven climate changes.
+
+\years{2016/04}  UW, Atmos. Sci.: Climate in the absence of ocean heat transport.
+
+\years{2015/11} Columbia University, SEAS Colloquium in Climate Science: Understanding
+  the effects of ocean circulation on radiative feedbacks and the
+  planetary energy budget.
+
+\years{2015/09} Stony Brook University, Marine \& Atmos. Sci.: Understanding the
+  effects of ocean circulation on radiative feedbacks and the planetary
+  energy budget.
+  
+\years{2015/01} Massachusetts College of Liberal Arts: What sets the temperature of
+  the Earth? (public lecture) 
+  
+\years{2013/10}  Caltech ESE seminar: The role of oceans in climate sensitivity and
+  radiative feedbacks
+  
+\years{2013/10} Courant Institute, NYU: The role of oceans in climate sensitivity and
+  radiative feedbacks.
+
+\years{2013/05} SIAM Dynamical Systems conference: Multiple sea ice states and
+  hysteresis in climate models.
+  
+\years{2013/03}  McGill University, Atmos. \& Oceanic Sci.: One wet planet, many
+  climates.
+  
+\years{2013/03} UW, Atmos. Sci.: Climate sensitivity and the oceans.
+
+\years{2013/01} U. Albany, Atmos. \& Environ. Sci.: One wet planet, many climates.
+ 
+\years{2012/11} UW, Atmos. Sci.: Understanding why ocean heat transport matters: a
+  multi-model approach.
+  
+\years{2012/05} MIT EAPS: Why does the climate system care about ocean heat transport?
+   
+\years{2012/04} UW, Oceanography: Modeling* the role of oceans and sea ice in multiple
+  equilibria, abrupt climate change, and Snowball Earth (* and maybe
+  understanding).
+  
+\years{2012/04}  U. Chicago, Geophysical Sci.: Water, water everywhere: role of oceans
+  in warm climates.
+  
+\years{2012/03}  LDEO, Columbia U.: Why does the climate system care about ocean heat
+  transport?
+  
+\years{2011/10}  U. Chicago, Geophysical Sci.: Why does the climate system care about
+  ocean heat transport?
+  
+\years{2011/10}  UW, Oceanography: Why does the climate system care about ocean heat
+  transport?
+  
+\years{2011/09}  ACDC2011, Friday Harbor WA: Ocean heat transport and weak temperature
+  gradients. 
+  
+\years{2011/02}  CalTech, Environ. Sci. \& Eng.: Impact of ocean heat transport in cold
+  and warm climates. 
+  
+\years{2011/01}  UW, Atmos. Sci.: Oceanic control of the sea ice edge and multiple
+  equilibria.
+  
+\years{2010/09}  Harvard U., Earth and Planetary Sci.: Multiple equilibria of sea ice
+  and climate.
+
+
+\subsection*{CONTRIBUTED CONFERENCE
+PRESENTATIONS}\label{contributed-conference-presentations}
+
+* \emph{indicates student co-author}
+\vspace{0.2 cm}
+
+\years{2017/01}
+  Rose, B.E.J., CLIMLAB: a Python-Based Software Toolkit for Interactive,
+  Process-Oriented Climate Modeling, AMS Seventh Symposium on Advances
+  in Modeling and Analysis Using Python.
+  
+\years{2016/12}
+  Rose, B.E.J. and L. Rayborn*, Climate sensitivity increases as ocean heat
+  uptake declines: a linear systems perspective (oral presentation), AGU
+  Fall Meeting.
+  
+\years{2016/12}
+  Rose, B.E.J., Interactive, process-oriented climate modeling with CLIMLAB
+  (oral presentation), AGU Fall Meeting.
+  
+\years{2016/12}
+  Rayborn, L.* and B.E.J. Rose, Understanding the Dependence of Radiative
+  Feedbacks and Clouds on the Spatial Structure of Ocean Heat Uptake
+  (oral presentation), AGU Fall Meeting.
+  
+\years{2016/12}
+  Rencurrel, M.C.* and B.E.J. Rose, Understanding Atmospheric Adjustment to
+  Variations in Tropical Ocean Heat Transport (poster), AGU Fall
+  Meeting.
+  
+\years{2016/11}
+  Rose, B.E.J., Robust non-local effects of ocean heat uptake on radiative
+  feedback and subtropical cloud cover (oral presentation), Model
+  Hierarchies workshop, Princeton.
+  
+\years{2016/02}
+  Rose, B.E.J., Robust non-local effects of ocean heat uptake on radiative
+  feedback and subtropical cloud cover (oral presentation), Ocean
+  Sciences.
+  
+\years{2015/12}
+  Rayborn, L.* and B.E.J. Rose, Robust effects of ocean heat uptake on
+  radiative feedback and subtropical cloud cover: a study using
+  radiative kernels (oral presentation), AGU Fall Meeting.
+  
+\years{2015/12}
+  Rencurrel, M.C.* and B.E.J. Rose, Atmospheric compensation of variations in
+  tropical ocean heat transport: understanding mechanisms and
+  implications on tectonic timescales (poster), AGU Fall Meeting.
+  
+\years{2015/12}
+  Rose, B.E.J., Climate in the Absence of Ocean Heat Transport (poster),
+  AGU Fall Meeting.
+  
+\years{2015/12}
+  Rose, B.E.J., CLIMLAB: a Python-based software toolkit for interactive,
+  process-oriented climate modeling (poster), AGU Fall Meeting.
+  
+\years{2014/12}
+  Rose, B.E.J., Accidental Lessons on Nonlinear Wind - Ocean - Sea Ice
+  Interaction in the Tropics, with Implications for Snowball Earth
+  (poster), AGU Fall Meeting.
+  
+\years{2014/06}
+  Rose, B.E.J., The dependence of transient climate sensitivity and
+  radiative feedbacks on the spatial pattern of ocean heat uptake (oral
+  presentation), Latsis Symposium, ETH Zurich.
+  
+\years{2013/12}
+  Rose, B.E.J., D. Battisti and K. Armour, The dependence of transient
+  climate sensitivity and radiative feedbacks on the spatial pattern of
+  ocean heat uptake (oral presentation), AGU Fall Meeting.
+  
+\years{2012/12}
+  Rose, B.E.J., Understanding the atmospheric response to ocean heat
+  transport: a model inter-comparison (oral presentation), AGU Fall
+  Meeting.
+  
+\years{2011/12}
+  Rose, B.E.J., D. Ferreira and J. Marshall, Not all poleward heat transport
+  is created equal: a new look at warm climates, water vapor feedback,
+  and the low-temperature-gradient paradox (oral presentation), AGU Fall
+  Meeting.
+  
+\years{2011/06}
+  Rose, B.E.J., D. Ferreira and J. Marshall, On the dynamics of an abrupt
+  climate change (oral presentation), CMOS Congress, Victoria BC.
+  
+\years{2011/05}
+  Rose, B.E.J., D. Ferreira and J. Marshall, On the dynamics of an abrupt
+  climate change (oral presentation), AMS Polar Meteorology and
+  Oceanography Conference, Boston MA.
+  
+\years{2010/07}
+  Rose, B.E.J., Oceanic control of the sea ice edge and multiple equilibria
+  in the climate system (thesis defense), MIT, Cambridge MA.
+  
+\years{2010/06}
+  Rose, B.E.J., D. Ferreira and J. Marshall, Multiple equilibria and abrupt
+  climate change in coupled Aquaplanet simulations (oral presentation),
+  CMOS Congress, Ottawa ON.
+  
+\years{2010/05}
+  Rose, B.E.J., Ocean heat transport, sea ice, and multiple equilibria of
+  the climate system, Sack Lunch Seminar in Oceanography and Climate,
+  MIT, Cambridge MA.
+  
+\years{2009/11}
+  Rose, B.E.J., D. Ferreira and J. Marshall, Multiple equilibria of the
+  atmosphere-ocean-ice system (oral presentation), Ocean-Atmosphere
+  Energy Transport conference, Pasadena CA.
+  
+\years{2009/04}
+  Rose, B.E.J., Multiple equilibria of the atmosphere-ocean-ice system
+  (oral presentation), Graduate Climate Conference, UW, Pack Forest WA.
+  
+\years{2008/04}
+  Rose, B.E.J. and J. Marshall, Heat transport, wind stress and the ice
+  edge: new insights from simple models (oral presentation), CMOS
+  Congress, Kelowna BC.
+  
+\years{2007/10}
+  Rose, B.E.J., Sea ice, wind, and ocean currents: feedbacks and
+  instabilities in ice age climates (oral presentation), Graduate
+  Climate Conference, UW, Pack Forest WA.
+  
+\years{2007/05}
+  Rose, B.E.J. and J. Marshall, Constraints on atmospheric and oceanic heat
+  transport from an idealized coupled climate model with sea-ice (oral
+  presentation), CMOS-CGU-AMS Joint Congress, St.~John's NF.
+  
+\years{2006/04}
+  Rose, B.E.J., The partition of heat transport in a simple coupled climate
+  model (oral presentation), Graduate Climate Conference, UW, Pack
+  Forest WA
+  
+\years{2004/06}
+  Rose, B.E.J. and C.A. Lin, A reconstruction of historical summer drought in
+  Quebec based on tree rings (poster), Symposium Ouranos sur les
+  changements climatiques, Montreal QC
+  
+\years{2001/02}
+  Rose, B.E.J. and C.A. Lin, Statistical relation between precipitation and
+  vertical motion (oral presentation), Canadian CLIVAR Network Workshop,
+  Victoria BC.
+
+
+\section*{TEACHING AND ADVISING}\label{teaching-and-advising}
+
+\subsection*{COURSES AT U. ALBANY}\label{courses}
+
+\years{2017, 2015} A ATM 623 Climate Modeling
+  
+\years{2016, 2015} A ATM 500 Atmospheric Dynamics 
+  
+\years{2016, 2014} A ATM/ENV 415 Climate Laboratory (previously
+  A ENV 480)
+  
+\years{2014} A ATM 316 Dynamic Meteorology I 
+  
+\years{2013} A ATM 619 Oceans and Climate Seminar 
+  
+\subsection*{PREVIOUS TEACHING}\label{courses}
+
+\years{2013} UW ATMS 542 Geophysical Fluid Dynamics II, co-taught with David
+  Battisti
+  
+\years{2011, 2013}
+  UW ATMS 514 / ESS 535 Ice and Climate, some guest lectures for C.M.
+  Bitz
+  
+\years{2011} Lecturer, Advanced Climate Dynamic Course ACDC2011, ``Dynamics of Past
+  Warm Climates''
+  
+\years{2009} Lecture note preparation for P. O'Gorman, General Circulation of the
+  Atmosphere, MIT
+  
+\years{2007} Teaching assistant, guest lecturer for J. Marshall, Physics of
+  Atmospheres and Oceans, MIT
+  
+\years{2006 -- 2007} Lab assistant for middle school science class, Fayerweather Street
+  School, Cambridge MA
+  
+\years{2006} Teaching assistant for R.S. Lindzen, Strange bedfellows: science and
+  environmental policy, MIT
+
+
+\subsection*{GRADUATE STUDENTS
+ADVISED}\label{graduate-students-advised}
+
+\years{2016 --} Christopher Cardinale (advisor)
+  
+\years{2015 -- 2016} Lance Rayborn (advisor, MS completed 12/2016)
+
+\years{2014 -- } Michael Cameron Rencurrel (advisor, MS completed 2/2017, PhD studies
+  ongoing)
+  
+\years{2013 -- 2016} Christopher Colose (committee member, PhD defended 12/2016)
+
+\years{2014 -- 2017} Theodore Letcher (committee member, PhD defended 2/2017)
+
+\years{2013 -- } Pablo Paiewonsky (committee member, PhD defense anticipated summer
+  2017)
+  
+\years{2015 -- } Anthony Coletti (committee member, U. Massachusetts Amherst, PhD defense anticipated summer 2017)
+
+\years{2014 -- } Hannah Attard (committee member, PhD defense anticipated fall 2017)
+
+\years{2016 -- } Lanxi Min (committee member, PhD qualifying exam passed 05/2016)
+
+\years{2016 -- } Di Chen (committee member, PhD qualifying exam passed 11/2016)
+
+\years{2015} Melissa Gervais (external PhD thesis examiner, McGill University)
+
+
+\subsection*{UNDERGRADUATE STUDENTS
+ADVISED}\label{undergraduate-students-advised}
+
+\years{2014} Deborah McGlynn (senior thesis in Environmental Science)
+
+\years{2013 --} Academic advisor for roughly 10 students in Atmospheric Science and
+  Environmental Science majors
+
+\section*{SERVICE}\label{service}
+
+\subsection*{DEPARTMENTAL}\label{departmental}
+
+\years{2015 -- } DAES graduate committee member
+
+\years{2014 -- } Chair, planning committee for GFD / Env. Sci. teaching laboratory in
+  E-TEC building
+
+\years{2014 -- } Organizer, DAES Climate Group weekly seminar series
+
+
+\subsection*{COLLEGE OF ARTS AND
+SCIENCES}\label{college-of-arts-and-sciences}
+
+\years{2016 -- } CAS Faculty Council (at-large councillor)
+
+\years{2016 -- } Academic Planning Committee
+
+
+\subsection*{UNIVERSITY}\label{university}
+
+\years{2017 -- } Strategic Planning Steering Committee (member of discussion group for
+  Engaging Locally and Globally)
+
+
+\subsection*{PROFESSIONAL}\label{professional}
+
+
+\years{2009 -- }  Reviewer for Nature, J. Climate, J. Atmos. Sci., J. Geophys. Res.,
+  Geophys. Res. Lett., Nature Geosci., Nature Clim. Change, SIAM J.
+  Appl. Dyn. Sys., Earth Sys. Dyn., \& Encyclopedia of Natural Resources
+
+\years{2015 -- }
+  Proposal reviewer for National Science Foundation and United
+  States-Israel Binational Science Foundation
+
+\years{2015}
+  Session Convener: ``Polar Climate and Predictability'', AGU Fall
+  Meeting.
+  
+\years{2014}  Session Convener: ``Innovative Insights into the Climate System and
+  Climate Models: Exploring Scales and Parameter Spaces'', AGU Fall
+  Meeting.
+  
+\years{2013}
+  Judge for Outstanding Student Presentation Awards, AGU Fall Meeting,
+  2013.
+  
+\years{2012}
+  Commendation for exceptional refereeing, Nature Publishing Group.
+  
+\years{2012/07}
+  Convener and moderator, Workshop on heat transport in aquaplanet
+  models, UW Atmos. Sci..
+  
+\years{2011/04}
+  Moderator, climate dynamics session, 20th anniversary celebration of
+  the NOAA C\&GC Postdoctoral Fellowship Program, Silver Spring MD,
+  04/2011.
+  
+\years{2009/04}
+  Chair (invited), ocean circulation session, 3rd Graduate Climate
+  Conference, UW.
+
+
+\subsection*{COMMUNITY}\label{community}
+
+\years{2016 -- 2017} UAlbany Family Earth Day, rotating table demonstrations
+
+\years{2014/18} Space Science and Next Generation of Science Standards (forum for high school science teachers), lecture on climate change and climate modeling, RPI.
+
+\years{2007 -- 2009}
+  Session leader, YouthCAN Summit on Global Warming, MIT.
+  
+ \years{2008/01}
+  Public seminar: ``Looking Back on the Future of Climate Change'', MIT.
+
+
+\section*{HONORS AND AWARDS}\label{honors-and-awards}
+
+\years{2010 -- 2012}
+  NOAA Climate and Global Change Postdoctoral Fellowship
+  
+\years{2010}
+  Carl-Gustav Rossby Prize for best thesis, MIT
+  
+\years{2004}
+  Jule G. Charney Prize and MIT Presidential Fellowship
+  
+\years{2002}
+  Dean's Honour List for M.Sc. thesis, McGill University
+  
+\years{2001 -- 2002}
+  NSERC Graduate Fellowship, McGill University
+
+\years{2001}
+  Meteorological Service of Canada supplement to NSERC Fellowship (declined)
+  
+\years{1999}
+  NSERC Undergraduate Research Fellowship
+  
+\years{1995 -- 1999}
+  James McGill Scholarship and J.S. Marshall Prize, McGill University
+  
+
+\section*{PROFESSIONAL AFFILIATIONS}\label{professional-affiliations}
+
+  American Geophysical Union
+
+  American Meteorological Society
+
+
+
+
+%\vfill{} % Whitespace before final footer
+
+%----------------------------------------------------------------------------------------
+%	FINAL FOOTER
+%----------------------------------------------------------------------------------------
+
+%\begin{center}
+%{\scriptsize Last updated: \today\- •\- \href{http://www.LaTeXTemplates.com}{http://www.LaTeXTemplates.com}} % Any final footer text such as a URL to the latest version of your CV, last updated date, compiled in XeTeX, etc
+%{\scriptsize Last updated: \today}
+%\end{center}
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
