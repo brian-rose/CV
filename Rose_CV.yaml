@@ -1,0 +1,77 @@
+contact:
+  name: Brian E. J. Rose
+  affiliation: |
+        Associate Professor
+        Department of Atmospheric & Environmental Sciences
+        University at Albany (SUNY)
+        ES 351, 1400 Washington Ave., Albany NY 12222, U.S.A
+  email: brose@albany.edu
+  summary: |
+        Canadian citizen, lawful permanent resident of the USA, fluent in English and French
+  phone: (518) 442-4477
+  web: http://www.atmos.albany.edu/facstaff/brose/
+
+education:
+  - degree: PhD
+    year: 2010
+    program: Climate Physics and Chemistry
+    institution: Massachusetts Institute of Technology
+    thesis-title: |
+      Oceanic control of the sea ice edge and multiple equilibria in the climate system
+    thesis-advisor: J. Marshall
+    accolades: Awarded 2010 Rossby Prize
+  - degree: MSc
+    year: 2002
+    program: Atmospheric & Oceanic Sciences
+    institution: McGill University
+    thesis-title: |
+      A diagnostic scheme for global precipitation based on vertical motion
+    thesis-advisor: C.A. Lin
+  - degree: BSc
+    year: 1999
+    program: Atmospheric & Oceanic Sciences
+    institution: McGill University
+    thesis-title: |
+      Numerical simulation of a mesoscale vortex over the Beaufort Sea
+    thesis-advisor: M.K. Yau
+
+appointments:
+  - title: Associate Professor (with tenure)
+    department: Atmospheric & Environmental Sciences
+    institution: University at Albany (SUNY)
+    years: 2019 -- present
+
+  - title: Assistant Professor
+    department: Atmospheric & Environmental Sciences
+    institution: University at Albany (SUNY)
+    years: 2013 -- 2019
+
+  - title: Research Associate
+    department: Atmospheric Sciences
+    institution: University of Washington
+    years: 2012 -- 2013
+
+  - title: NOAA Climate and Global Change Postdoctoral Fellow
+    department: Atmospheric Sciences
+    institution: University of Washington
+    years: 2010 -- 2012
+    host: David S. Battisti
+
+  - title: Postdoctoral Associate
+    department: Earth, Atmospheric and Planetary Sciences
+    institution: Massachusetts Institute of Technology
+    years: 2010
+
+  - title: Research Assistant
+    department: Earth, Atmospheric and Planetary Sciences
+    institution: Massachusetts Institute of Technology
+    years: 2005 -- 2010
+
+  - title: Research Assistant
+    department: Atmospheric and Oceanic Sciences
+    institution: McGill University
+    years: 2003 -- 2004
+
+  - title: Research Assistant
+    institution: McGill University and *Centre de recherche en calcul appliqué*
+    years: 2000
